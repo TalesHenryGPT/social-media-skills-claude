@@ -71,6 +71,7 @@ See each skill's `SKILL.md` for trigger phrases, inputs, and dependencies.
 | [gemini-carousel](skills/gemini-carousel/) | Slide-by-slide carousel generator with an approval gate. |
 | [quote-post](skills/quote-post/) | Claude writes the quote, Gemini recreates the image with the quote baked in. |
 | [analytics-dashboard](skills/analytics-dashboard/) | LinkedIn Analytics export to interactive React dashboard plus 5 data-backed recommendations. |
+| [wikipedia-entry](skills/wikipedia-entry/) | Turn 20 to 40 rules into a graphic that looks like a real Wikipedia article. Holds three times what a card grid holds, and the dated Sources block is the part nobody can copy. |
 <!-- SKILLS:END -->
 
 ## Installation
